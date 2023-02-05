@@ -17,21 +17,12 @@
       "locked_code": false,
       "registry_name": "creative_tab",
       "path": "~/GUI"
-    },
-    {
-      "name": "TitanCrystal",
-      "type": "item",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "titan_crystal"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.endless_war.titan_crystal": "Titan Crystal",
       "item.endless_war.ta_blogo": "TA Blogo",
       "itemGroup.tabcreative_tab": "Endless War"
     }
