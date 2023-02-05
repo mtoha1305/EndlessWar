@@ -25,15 +25,41 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "titan_crystal"
+    },
+    {
+      "name": "Mortar",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mortar"
+    },
+    {
+      "name": "TitanDust",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titan_dust"
+    },
+    {
+      "name": "TitandustCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titandust_craft"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.endless_war.mortar": "mortar and pestle",
       "item.endless_war.titan_crystal": "Titan Crystal",
       "item.endless_war.ta_blogo": "TA Blogo",
-      "itemGroup.tabcreative_tab": "Endless War"
+      "itemGroup.tabcreative_tab": "Endless War",
+      "item.endless_war.titan_dust": "Titan dust"
     }
   },
   "foldersRoot": {

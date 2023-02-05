@@ -1,0 +1,76 @@
+{
+  "mod_elements": [
+    {
+      "name": "TABlogo",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ta_blogo",
+      "path": "~/GUI"
+    },
+    {
+      "name": "CreativeTAB",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creative_tab",
+      "path": "~/GUI"
+    },
+    {
+      "name": "TitanCrystal",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titan_crystal"
+    },
+    {
+      "name": "CraftGUI",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_gui"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.endless_war.titan_crystal": "Titan Crystal",
+      "item.endless_war.ta_blogo": "TA Blogo",
+      "itemGroup.tabcreative_tab": "Endless War"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "GUI",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "endless_war",
+    "modName": "Endless War",
+    "version": "1.0.0",
+    "author": "Phoenix, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mod_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.endlesswar",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
